@@ -43,7 +43,7 @@ for (let i = 0; i < arr.length; i++) {
 // Kvadratning tomoni a berilgan. Uning perimetri P aniqlansin.
 // P = 4 * a.
 
-/*
+
 let kvadrat = prompt("Kvadratning tomonini kiriting")
 const peri = 4
 function perimetr() {
@@ -51,7 +51,6 @@ function perimetr() {
     alert(perimetri)
 }
 perimetr()
-*/
 
 
 
