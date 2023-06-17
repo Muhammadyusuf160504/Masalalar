@@ -19,5 +19,12 @@ h1 {
     display: flex;
     font-size: 100px;
     color: red;
-    background-image: linear-gradient(rgb(3, 208, 236), rgb(248, 6, 248),rgb(7, 241, 113));
+    padding: 20px;
+    background-image: linear-gradient(rgb(10, 247, 227),rgb(22, 245, 6));
+    border: 6px solid;
+    border-top-color: red;
+    border-left-color: green;
+    border-right-color: blue;
+    border-bottom-color: aqua;
+    border-radius: 20px;
 }
